@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\bin\Debug\net8.0\8martIzpitvane.exe
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\bin\Debug\net8.0\8martIzpitvane.deps.json
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\bin\Debug\net8.0\8martIzpitvane.runtimeconfig.json
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\bin\Debug\net8.0\8martIzpitvane.dll
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\bin\Debug\net8.0\8martIzpitvane.pdb
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.dll
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\refint\8martIzpitvane.dll
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.pdb
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\8martIzpitvane.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\8martIzpitvane\8martIzpitvane\obj\Debug\net8.0\ref\8martIzpitvane.dll
